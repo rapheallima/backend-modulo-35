@@ -1,4 +1,4 @@
-#Módulo 35: Projeto JPA com Testes
+# Módulo 35: Projeto JPA com Testes
 
 Este projeto utiliza **Java Persistence API (JPA)** para gerenciar entidades como **Cliente, Produto e Venda**, com persistência no banco **PostgreSQL**. Os testes foram desenvolvidos usando **JUnit 4**.
 
